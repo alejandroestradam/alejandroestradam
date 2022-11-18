@@ -4,5 +4,3 @@ I am a biomedical engineer who found his field of interest in web development. S
 
 - 🔭 I am currently working on React Native apps.
 - 🌱 I'm always constantly learning, so I'm currently studying advanced React topics.
-
-Here below you will find some of my projects ⬇️
