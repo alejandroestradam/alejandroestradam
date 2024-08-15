@@ -1,5 +1,5 @@
 # Hi there 👋
 
-I have experiencie in differents technologies including HTML, CSS, JavaScript, TypeScript, React, Nodejs, MobX, AntD, among other tools.
+I have experiencie in differents technologies including JavaScript, Python, TypeScript, React, Nodejs, Nextjs, MobX, AntD, Chakra UI, among other tools.
 
-- 🔭 I am currently working on React apps, and learning Python advanced topics.
+- 🔭 I am currently working on web apps, and learning Python advanced topics.
